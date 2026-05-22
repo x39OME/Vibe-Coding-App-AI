@@ -1,7 +1,7 @@
 # Vibe Coding App AI
 
 ## What did we use in the project?
-### 1- [Expo SDK 55](https://docs.expo.dev/get-started/create-a-project/)
+### 1- [Expo SDK 56](https://docs.expo.dev/get-started/create-a-project/)
 ### 2- [Claude App Desktop](https://claude.com/product/claude-code)
 ### 3- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide) Sonnet 4.6
 ### 4- [Expo/skills](https://github.com/expo/skills)

@@ -86,6 +86,16 @@ irm https://claude.ai/install.ps1 | iex
 
 ### Prompt
 ```
+1>
+I've already set up a fresh expo project for VibeCode in this folder. Install all the required dependencies like Convex,
+@convex-dev/auth, @auth/core,
+expo-secure-store, react-native-webview, snack-sdk, zustand,
+expo-haptics, expo-symbols, expo-clipboard, react-native-qrcode-svg,
+react-native-svg.
+1. Connect the project to Convex as the backend.
+2. Configure authentication using the password provider from convex-dev/auth.
+3. Set up the root layout with Convex Auth Provider using Expo Secure Store for token persistence.
+4. Set up the theme constants file with light and dark mode colors and a spacing scale.
 
 ```
 

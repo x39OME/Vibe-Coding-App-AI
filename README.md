@@ -2,9 +2,10 @@
 
 ## What did we use in the project?
 ### 1- [Expo SDK 55](https://docs.expo.dev/get-started/create-a-project/)
-### 2- [Claude Code](https://claude.com/product/claude-code)
-### 3- [Expo/skills](https://github.com/expo/skills)
-### 4 [Dev Expo skills](https://expo.dev/expo-skills)
+### 2- [Claude App Desktop](https://claude.com/product/claude-code)
+### 3- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide)
+### 4- [Expo/skills](https://github.com/expo/skills)
+### 5- [Dev Expo skills](https://expo.dev/expo-skills)
 
 
 ## Getting Started Expo Applaction

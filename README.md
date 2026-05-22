@@ -7,29 +7,41 @@
 ### 4- [Expo/skills](https://github.com/expo/skills)
 ### 5- [Dev Expo skills](https://expo.dev/expo-skills)
 
+## Preview Final Project
+
+-
+-
+
+<img src="./preview/" alt="app" />
+
 
 ## Getting Started Expo Applaction
 
-- Create New Expo Applaction
+### Create New Expo App
 ```
 npx create-expo-app@latest --template default@sdk-56
 ```
-- install claude code
-- Windows
+### install claude code
 ```
-- Administrator power shell
+npm install -g @anthropic-ai/claude-code
+```
+### install claude code App Desktop
+  - Windows
+  - Administrator power shell
+```
 irm https://claude.ai/install.ps1 | iex
 ```
-- Mac / Linux
+  - Mac / Linux
 ```
 curl -fsSL https://claude.ai/install.sh | bash
 ```
 
+### Commands
+- npx create-expo-app@latest --template default@sdk-56
+- npm install -g @anthropic-ai/claude-code
 - npx expo start
-- npm run android
-- npm run ios
-- claude /model Sonnet 4.6
-- gemini-2.5-flash
+- claude
+- /model Sonnet 4.6
 
   
 ## Claude Code

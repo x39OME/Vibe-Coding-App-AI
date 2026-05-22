@@ -16,6 +16,7 @@ npx create-expo-app@latest --template default@sdk-56
 - install claude code
 - Windows
 ```
+- Administrator power shell
 irm https://claude.ai/install.ps1 | iex
 ```
 - Mac / Linux
